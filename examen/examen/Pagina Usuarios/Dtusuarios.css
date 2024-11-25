@@ -1,0 +1,34 @@
+﻿#form1 {
+    border-style: solid;
+    border-color: inherit;
+    border-width: medium;
+    height: 473px;
+    background-image:url(rojoU.jfif);
+    text-align: center;
+    width: 350px;
+    padding:40px;
+    margin:0 auto;
+    color:white;
+    
+    }
+
+body {
+    background-image:url('/Pagina Usuarios/usuario.jfif');
+   
+}
+
+.b {
+    background-color:dimgray;
+    height:25px;
+   
+    color:white;
+}
+.g{
+    background-color:dimgrey;
+    border:solid;
+    border-block-color:black;
+    color:white;
+    
+   
+   
+}

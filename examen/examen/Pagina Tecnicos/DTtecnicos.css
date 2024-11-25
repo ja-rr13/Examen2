@@ -1,0 +1,36 @@
+﻿#form1 {
+    border-style: solid;
+    border-color:black;
+    border-width: medium;
+    height: 473px;
+    background-image:url(taj.jfif);
+    text-align: center;
+    width: 350px;
+    
+    margin: 0 auto;
+    color:white;
+}
+div {
+    width: 294px;
+    margin:0 auto;
+    padding:10px;
+    text-align:center;
+  
+}
+
+body {
+    background-image:url('/Pagina Tecnicos/tecnico.jpg')
+}
+
+.b {
+    background-color: grey;
+    height: 25px;
+    color: white;
+}
+
+.g {
+    background-color:gray;
+    border: solid;
+    
+    color: white;
+}

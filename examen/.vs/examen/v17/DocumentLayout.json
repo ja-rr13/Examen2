@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Home\\source\\repos\\examen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina usuarios\\tablausuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina usuarios\\tablausuarios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|C:\\Users\\Home\\source\\repos\\examen\\examen\\pagina equipos\\tablaequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina equipos\\tablaequipos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina equipos\\tablaequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina equipos\\tablaequipos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina usuarios\\tablausuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina usuarios\\tablausuarios.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|C:\\Users\\Home\\source\\repos\\examen\\examen\\pagina tecnicos\\tablatecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina tecnicos\\tablatecnicos.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|C:\\Users\\Home\\source\\repos\\examen\\examen\\pagina tecnicos\\tablatecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina tecnicos\\tablatecnicos.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\capalogica\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\capalogica\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina tecnicos\\dttecnicos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina tecnicos\\dttecnicos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina equipos\\dtequipos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina equipos\\dtequipos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|c:\\users\\home\\source\\repos\\examen\\examen\\pagina usuarios\\dtusuarios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2796258F-B1CA-4428-8F5A-71552D1D9167}|examen\\examen.csproj|solutionrelative:examen\\pagina usuarios\\dtusuarios.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TablaUsuarios.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\TablaUsuarios.aspx",
+              "RelativeDocumentMoniker": "examen\\Pagina Usuarios\\TablaUsuarios.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\TablaUsuarios.aspx",
+              "RelativeToolTip": "examen\\Pagina Usuarios\\TablaUsuarios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T15:35:05.737Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Dtusuarios.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\Dtusuarios.css",
+              "RelativeDocumentMoniker": "examen\\Pagina Usuarios\\Dtusuarios.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\Dtusuarios.css",
+              "RelativeToolTip": "examen\\Pagina Usuarios\\Dtusuarios.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T18:11:31.241Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TablaEquipos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\TablaEquipos.aspx.cs",
+              "RelativeDocumentMoniker": "examen\\Pagina Equipos\\TablaEquipos.aspx.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\TablaEquipos.aspx.cs",
+              "RelativeToolTip": "examen\\Pagina Equipos\\TablaEquipos.aspx.cs",
+              "ViewState": "AgIAAD8AAACAy8zMzCwwwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:03:23.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TablaUsuarios.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\TablaUsuarios.aspx.cs",
+              "RelativeDocumentMoniker": "examen\\Pagina Usuarios\\TablaUsuarios.aspx.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Usuarios\\TablaUsuarios.aspx.cs",
+              "RelativeToolTip": "examen\\Pagina Usuarios\\TablaUsuarios.aspx.cs",
+              "ViewState": "AgIAAGkAAAAA9f////8awHsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:48:56.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\CapaLogica\\Usuarios.cs",
+              "RelativeDocumentMoniker": "examen\\CapaLogica\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\CapaLogica\\Usuarios.cs",
+              "RelativeToolTip": "examen\\CapaLogica\\Usuarios.cs",
+              "ViewState": "AgIAAEgAAAAAxMzMzKwwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T20:43:07.253Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTtecnicos.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\DTtecnicos.css",
+              "RelativeDocumentMoniker": "examen\\Pagina Tecnicos\\DTtecnicos.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\DTtecnicos.css",
+              "RelativeToolTip": "examen\\Pagina Tecnicos\\DTtecnicos.css",
+              "ViewState": "AgIAAAcAAAAAzczMzIwjwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T18:55:01.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TablaEquipos.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\TablaEquipos.aspx",
+              "RelativeDocumentMoniker": "examen\\Pagina Equipos\\TablaEquipos.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\TablaEquipos.aspx",
+              "RelativeToolTip": "examen\\Pagina Equipos\\TablaEquipos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T06:10:21.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TablaTecnicos.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\TablaTecnicos.aspx.cs",
+              "RelativeDocumentMoniker": "examen\\Pagina Tecnicos\\TablaTecnicos.aspx.cs",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\TablaTecnicos.aspx.cs",
+              "RelativeToolTip": "examen\\Pagina Tecnicos\\TablaTecnicos.aspx.cs",
+              "ViewState": "AgIAACYAAAAA3P/////vvz8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T05:20:05.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TablaTecnicos.aspx",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\TablaTecnicos.aspx",
+              "RelativeDocumentMoniker": "examen\\Pagina Tecnicos\\TablaTecnicos.aspx",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Tecnicos\\TablaTecnicos.aspx",
+              "RelativeToolTip": "examen\\Pagina Tecnicos\\TablaTecnicos.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-25T05:04:55.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DTequipos.css",
+              "DocumentMoniker": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\DTequipos.css",
+              "RelativeDocumentMoniker": "examen\\Pagina Equipos\\DTequipos.css",
+              "ToolTip": "C:\\Users\\Home\\source\\repos\\examen\\examen\\Pagina Equipos\\DTequipos.css",
+              "RelativeToolTip": "examen\\Pagina Equipos\\DTequipos.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-11-25T19:43:51.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

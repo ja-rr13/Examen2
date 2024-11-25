@@ -1,0 +1,32 @@
+﻿#form1 {
+    border-style: solid;
+    border-color: inherit;
+    border-width: medium;
+    height: 473px;
+   background-image:url(verdeE.jfif);
+    width: 350px;
+   padding:10px;
+    margin: 0 auto;
+}
+div {
+    width: 294px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+}
+    body {
+    background-image: url('/Pagina Equipos/equipo.jfif');
+}
+
+.b {
+    background-color: darkslategrey;
+    height: 25px;
+    color: white;
+}
+
+.g {
+    background-color: darkslategrey;
+    border: solid;
+    border-block-color: black;
+    color: white;
+}
